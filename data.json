@@ -1,0 +1,22 @@
+{
+  "etudiant": [
+    {
+      "id": 1,
+      "first_name": "mohamed",
+      "last_name": "ahmed",
+      "date_naissance": "05-10-2022"
+    },
+    {
+      "id": 2,
+      "first_name": "ayoub",
+      "last_name": "ahmed",
+      "date_naissance": "04-10-2022"
+    },
+    {
+      "id": 3,
+      "first_name": "yassir",
+      "last_name": "ahmed",
+      "date_naissance": "06-10-2022"
+    }
+  ]
+}
